@@ -1,0 +1,6 @@
+# Favorite
+
+- 관심사 : ML Serving, Interence Optimization
+- 좋아하는 작업 : 구조 설계, 병목 분석
+- 선호하는 학습 방식 : 실습 기반 반복
+- 기타 : 축구, 애니, 동물
